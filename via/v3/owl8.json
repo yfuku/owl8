@@ -2,7 +2,7 @@
   "name": "owl8",
   "vendorId": "0x5946",
   "productId": "0x0008",
-  "matrix": {"rows": 1, "cols": 12},
+  "matrix": {"rows": 1, "cols": 16},
   "layouts": {
     "labels": [],
     "keymap": [
